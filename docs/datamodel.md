@@ -43,3 +43,15 @@ mutable objects this is not allowed.
 ### Mappings
 
 * Dictionary
+
+### Callable Types
+
+* User defined functions
+* Special Writable attributes
+* Generator Functions
+* Coroutine Functions
+* Asynchronous Generator Functions
+* Built-in Functions
+* Built-in methods
+* Classes
+* Class instances
